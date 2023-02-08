@@ -6,3 +6,12 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
+
+body {
+  background-color: #1a1a40;
+  .navbar {
+    .navbar-brand {
+      font-family: "Sassy Frass", cursive;
+    }
+  }
+}
