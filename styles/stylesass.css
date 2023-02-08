@@ -10831,4 +10831,7 @@ body .navbar .nav-link {
 }
 body .navbar .nav-link:hover {
   color: #ffffff;
+}
+body .content-row {
+  height: 500px;
 }/*# sourceMappingURL=stylesass.css.map */
