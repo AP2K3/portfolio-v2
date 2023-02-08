@@ -8,10 +8,17 @@
 // Then add additional custom code here
 
 body {
-  background-color: #1a1a40;
+  background-color: #363062;
   .navbar {
     .navbar-brand {
       font-family: "Sassy Frass", cursive;
+      color: #e9d5ca;
+    }
+    .nav-link {
+      color: #e9d5ca;
+      &:hover {
+        color: #ffffff;
+      }
     }
   }
 }

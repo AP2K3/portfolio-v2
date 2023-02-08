@@ -10820,8 +10820,15 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-color: #1a1a40;
+  background-color: #363062;
 }
 body .navbar .navbar-brand {
   font-family: "Sassy Frass", cursive;
+  color: #e9d5ca;
+}
+body .navbar .nav-link {
+  color: #e9d5ca;
+}
+body .navbar .nav-link:hover {
+  color: #ffffff;
 }/*# sourceMappingURL=stylesass.css.map */
