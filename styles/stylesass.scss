@@ -8,26 +8,27 @@
 // Then add additional custom code here
 
 body {
-  background-color: #363062;
+  background-color: #222831;
   .navbar {
     .navbar-brand {
       font-family: "Sassy Frass", cursive;
-      color: #e9d5ca;
-    }
-    .nav-link {
-      color: #e9d5ca;
-      &:hover {
-        color: #ffffff;
-      }
     }
   }
   .content-box {
-    height: 600px;
-    background-color: #4d4c7d !important;
+    height: 100%;
+    background-color: #393e46 !important;
+
+    .socials {
+      background-color: #00adb5;
+      color: white;
+      border: none;
+    }
   }
   #main-image {
-    background-image: url("/assets/main-image.png") !important;
-    background-repeat: no-repeat;
-    background-position: center;
+    // background-image: url("/assets/main-image.jpg") !important;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // background-position: center;
+    background-color: #00adb5 !important;
   }
 }
