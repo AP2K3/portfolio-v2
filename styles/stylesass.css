@@ -10837,7 +10837,20 @@ body .special {
   background-color: #ce7777 !important;
 }
 body .skills {
-  background-color: #ffecef !important;
   font-size: 3rem;
   text-align: center;
+}
+body #music-player-project {
+  background-image: url("/assets/Music Player (1).png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 324px;
+}
+body #calculator-project {
+  background-image: url("/assets/Calculator (1).png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 324px;
 }/*# sourceMappingURL=stylesass.css.map */
