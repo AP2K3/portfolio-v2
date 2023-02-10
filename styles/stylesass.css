@@ -10834,6 +10834,9 @@ body .content-box .socials {
   color: white;
   border: none;
 }
-body #main-image {
+body .special {
   background-color: #00adb5 !important;
+}
+body .skills {
+  background-color: #eeeeee !important;
 }/*# sourceMappingURL=stylesass.css.map */

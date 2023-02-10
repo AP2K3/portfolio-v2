@@ -24,11 +24,17 @@ body {
       border: none;
     }
   }
-  #main-image {
-    // background-image: url("/assets/main-image.jpg") !important;
-    // background-repeat: no-repeat;
-    // background-size: cover;
-    // background-position: center;
+  .special {
     background-color: #00adb5 !important;
   }
+
+  .skills {
+    background-color: #eeeeee !important;
+  }
+  // #main-image {
+  //   // background-image: url("/assets/main-image.jpg") !important;
+  //   // background-repeat: no-repeat;
+  //   // background-size: cover;
+  //   // background-position: center;
+  // }
 }
