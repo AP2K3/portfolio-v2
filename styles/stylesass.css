@@ -10820,23 +10820,24 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-color: #222831;
+  background-color: #251b37;
 }
 body .navbar .navbar-brand {
   font-family: "Sassy Frass", cursive;
 }
 body .content-box {
   height: 100%;
-  background-color: #393e46 !important;
+  background-color: #372948 !important;
 }
 body .content-box .socials {
-  background-color: #00adb5;
-  color: white;
+  background-color: #ffecef;
   border: none;
 }
 body .special {
-  background-color: #00adb5 !important;
+  background-color: #ce7777 !important;
 }
 body .skills {
-  background-color: #eeeeee !important;
+  background-color: #ffecef !important;
+  font-size: 3rem;
+  text-align: center;
 }/*# sourceMappingURL=stylesass.css.map */

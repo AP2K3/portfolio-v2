@@ -8,7 +8,7 @@
 // Then add additional custom code here
 
 body {
-  background-color: #222831;
+  background-color: #251b37;
   .navbar {
     .navbar-brand {
       font-family: "Sassy Frass", cursive;
@@ -16,25 +16,29 @@ body {
   }
   .content-box {
     height: 100%;
-    background-color: #393e46 !important;
+    background-color: #372948 !important;
 
     .socials {
-      background-color: #00adb5;
-      color: white;
+      background-color: #ffecef;
       border: none;
     }
   }
   .special {
-    background-color: #00adb5 !important;
+    background-color: #ce7777 !important;
+  }
+  .skills {
+    background-color: #ffecef !important;
+    font-size: 3rem;
+    text-align: center;
   }
 
-  .skills {
-    background-color: #eeeeee !important;
-  }
-  // #main-image {
-  //   // background-image: url("/assets/main-image.jpg") !important;
-  //   // background-repeat: no-repeat;
-  //   // background-size: cover;
-  //   // background-position: center;
+  // svg path {
+  //   filter: drop-shadow(1px 1px 1px black);
   // }
 }
+// #main-image {
+//   // background-image: url("/assets/main-image.jpg") !important;
+//   // background-repeat: no-repeat;
+//   // background-size: cover;
+//   // background-position: center;
+// }
