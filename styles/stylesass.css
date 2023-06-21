@@ -10840,14 +10840,14 @@ body .skills {
   text-align: center;
 }
 body #music-player-project {
-  background-image: url("./assets/Music-Player.png");
+  background-image: url("/assets/Music-Player.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 324px;
 }
 body #calculator-project {
-  background-image: url("./assets/Calculator.png");
+  background-image: url("/assets/Calculator.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
