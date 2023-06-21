@@ -5803,8 +5803,7 @@ textarea.form-control-lg {
   float: left;
   width: 100%;
   margin-right: -100%;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   transition: transform 0.6s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -10841,14 +10840,14 @@ body .skills {
   text-align: center;
 }
 body #music-player-project {
-  background-image: url("/assets/Music Player (1).png");
+  background-image: url("/assets/Music-Player.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 324px;
 }
 body #calculator-project {
-  background-image: url("/assets/Calculator (1).png");
+  background-image: url("/assets/Calculator.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
