@@ -8,44 +8,44 @@
 // Then add additional custom code here
 
 body {
-  background-color: #251b37;
-  .navbar {
-    .navbar-brand {
-      font-family: "Sassy Frass", cursive;
+    background-color: #251b37;
+    .navbar {
+        .navbar-brand {
+            font-family: "Sassy Frass", cursive;
+        }
     }
-  }
-  .content-box {
-    height: 100%;
-    background-color: #372948 !important;
+    .content-box {
+        height: 100%;
+        background-color: #372948 !important;
 
-    .socials {
-      background-color: #ffecef;
-      border: none;
+        .socials {
+            background-color: #ffecef;
+            border: none;
+        }
     }
-  }
 
-  .special {
-    background-color: #ce7777 !important;
-  }
-  .skills {
-    // background-color: #ffecef !important;
-    font-size: 3rem;
-    text-align: center;
-  }
+    .special {
+        background-color: #ce7777 !important;
+    }
+    .skills {
+        // background-color: #ffecef !important;
+        font-size: 3rem;
+        text-align: center;
+    }
 
-  #music-player-project {
-    background-image: url("/assets/Music\ Player\ \(1\).png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 324px;
-  }
+    #music-player-project {
+        background-image: url("/assets/Music-Player.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 324px;
+    }
 
-  #calculator-project {
-    background-image: url("/assets/Calculator\ \(1\).png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 324px;
-  }
+    #calculator-project {
+        background-image: url("/assets/Calculator.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 324px;
+    }
 }
